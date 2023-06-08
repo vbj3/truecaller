@@ -2,10 +2,12 @@ import telebot
 from truecallerpy import search_phonenumber
 import json
 import os
-api=os.environ['api']
-id=os.environ['id']
-admin=os.environ['admin']
-
+# api=os.environ['api']
+# id=os.environ['id']
+# admin=os.environ['admin']
+api = "6119920821:AAEt6k__xUpgi5tJyNHSlOVEvfiv0dUubPc"
+id = "a1i0a--ftoz2jF1F_PHVBXRDdFKu_la7mME-fhFbTaLbVOtjCSUUNChLp6pkqNw9"
+admin = 1241390756
 
 def main():
   
