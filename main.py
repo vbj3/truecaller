@@ -11,7 +11,7 @@ admin = 1241390756
 
 def main():
   
-  bot = telebot.TeleBot(api)
+  bot = telebot.TeleBot("6119920821:AAEt6k__xUpgi5tJyNHSlOVEvfiv0dUubPc")
   
   userDict = [admin,]
 
