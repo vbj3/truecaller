@@ -8,7 +8,7 @@ import os
 api = "6119920821:AAEt6k__xUpgi5tJyNHSlOVEvfiv0dUubPc"
 id = "a1i0a--ftoz2jF1F_PHVBXRDdFKu_la7mME-fhFbTaLbVOtjCSUUNChLp6pkqNw9"
 admin = 1241390756
-
+print("staring")
 def main():
   
   bot = telebot.TeleBot("6119920821:AAEt6k__xUpgi5tJyNHSlOVEvfiv0dUubPc")
